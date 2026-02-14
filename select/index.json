@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "獣の理",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2026-02-14T15:22:45.500660Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kemono no Ri [獣の理]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_Kemono_no_Ri_[獣の理]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "獣の理",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_獣の理_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "獣の理",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_獣の理_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "獣の理",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_獣の理_東京事変.txt"
+    }
+  ]
+}
